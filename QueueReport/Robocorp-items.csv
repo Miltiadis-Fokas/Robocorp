@@ -1,0 +1,5 @@
+﻿Status,Revision,Reference,Exception,Deadline,Priority,Robot,Postpone,Started,Ended,Transaction Execution Time,Retry No.,Specific Data,Key,Reviewer Name,Exception Reason,Output
+Successful,None,,,,Normal,DEVMILTOS,,7/14/2024 8:07:36 PM,7/14/2024 8:08:25 PM,48,0,"{""DynamicProperties"":{""A/A"":""1"",""Keyword"":""Chicago Bulls"",""Category"":""All"",""Number of Months"":0}}",9b4bd340-6e30-4294-a8f3-3c26fc405587,,,
+Successful,None,,,,Normal,DEVMILTOS,,7/14/2024 8:08:25 PM,7/14/2024 8:09:28 PM,62,0,"{""DynamicProperties"":{""A/A"":""2"",""Keyword"":""Dell"",""Category"":""Technology"",""Number of Months"":1}}",4be18027-1f14-4ede-b2c2-4524c1abd3a1,,,
+Successful,None,,,,Normal,DEVMILTOS,,7/14/2024 8:09:28 PM,7/14/2024 8:10:13 PM,45,0,"{""DynamicProperties"":{""A/A"":""3"",""Keyword"":""Finance"",""Category"":""Business"",""Number of Months"":2}}",97d1e6d2-d7e1-438b-8a2f-1a592cc6a452,,,
+Successful,None,,,,Normal,DEVMILTOS,,7/14/2024 8:10:13 PM,7/14/2024 8:11:10 PM,56,0,"{""DynamicProperties"":{""A/A"":""4"",""Keyword"":""covid"",""Category"":""World"",""Number of Months"":3}}",288f984a-2210-482d-93eb-22d57467fc54,,,
